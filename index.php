@@ -74,15 +74,15 @@ $year = date('Y');
     <section>
       <h2>About PM Kisan Yojana</h2>
       <p>The PM Kisan Samman Nidhi Yojana provides financial support to farmers across India. Stay informed about installment release dates, eligibility, and eKYC requirements.</p>
-      <a href="https://kisanportal.org/pmkisan-status/" class="btn">Check PM Kisan Status</a>
+      <a href="https://kisanportal.org/pm-kisan-status-check/" class="btn">Check PM Kisan Status</a>
     </section>
 
     <section>
       <h2>Popular Resources</h2>
       <ul>
         <li><a href="https://kisanportal.org/pmfby-guide/">Pradhan Mantri Fasal Bima Yojana (PMFBY) Guide</a></li>
-        <li><a href="https://ladkibahin-yojana.org/">Ladki Bahin Yojana Updates</a></li>
-        <li><a href="https://swamivivekanandascholarship.org/">Swami Vivekananda Scholarship Portal</a></li>
+        <li><a href="https://kisanportal.org/pm-kisan/">PM Kisan Samman Nidhi</a></li>
+        <li><a href="https://kisanportal.org/pm-kisan-21st-installment/">PM Kisan 21st Installment</a></li>
       </ul>
     </section>
 
