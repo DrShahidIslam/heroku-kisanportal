@@ -11,6 +11,7 @@ $year = date('Y');
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?= $title ?></title>
   <meta name="description" content="Kisan Portal brings you the latest updates on PM Kisan Yojana, government agricultural schemes, crop insurance, and farmer registration for 2025.">
+  <meta name="google-site-verification" content="IlRtPOfIGUwld8ku_s-0nFAYSSM87uqDM7v23-t3wJY" />
   <style>
     body {
       font-family: Arial, sans-serif;
